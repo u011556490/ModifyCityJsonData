@@ -33,7 +33,7 @@ public class JD_Address
                 try {  
                 	JSONArray dataJson = new JSONArray(readJsonFile("src/json/city.json"));// 创建一个包含原始json串的json对象  
                     for (int i = 0; i < dataJson.length(); i++) {  
-                        JSONObject info = dataJson.getJSONObject(i);// 获取features数组的第i个json对象  
+                        JSONObject info = dataJson.getJSONObject(i);  
                         if(info.has("children")) {
                         	JSONArray jsonItem = info.getJSONArray("children");
                         	 for(int j=0;j<jsonItem.length();j++) {
