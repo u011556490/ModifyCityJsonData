@@ -31,7 +31,7 @@ public class JD_Address
 //            while ((s = br.readLine()) != null) {  
 //                 System.out.println(s);  
                 try {  
-                	JSONArray dataJson = new JSONArray(readJsonFile("src/json/city.json"));// 创建一个包含原始json串的json对象  
+                	JSONArray dataJson = new JSONArray(readJsonFile("src/json/city.json"));  
                     for (int i = 0; i < dataJson.length(); i++) {  
                         JSONObject info = dataJson.getJSONObject(i);  
                         if(info.has("children")) {
