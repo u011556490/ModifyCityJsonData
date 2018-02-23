@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/wj/Downloads/androidPackage/fastjson-1.2.29/fastjson-1.2.29-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/wj/Downloads/androidPackage/fastjson-1.2.29/fastjson-1.2.29.jar"/>
+	<classpathentry kind="lib" path="/Users/wj/Downloads/commons-lang3-3.7/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="/Users/wj/Downloads/commons-lang3-3.7/commons-lang3-3.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/wj/Downloads/commons-lang3-3.7/commons-lang3-3.7-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/wj/Downloads/commons-lang3-3.7/commons-lang3-3.7-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/wj/Downloads/commons-lang3-3.7/commons-lang3-3.7-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/wj/Downloads/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/wj/Downloads/commons-io-2.6/commons-io.jar"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/org.json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
